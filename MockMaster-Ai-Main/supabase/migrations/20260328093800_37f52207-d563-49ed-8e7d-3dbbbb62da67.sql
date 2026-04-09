@@ -1,0 +1,1 @@
+ALTER TABLE public.interviews ADD COLUMN messages JSONB DEFAULT '[]'::jsonb;
