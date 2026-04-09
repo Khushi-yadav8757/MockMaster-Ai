@@ -179,7 +179,7 @@ For collaboration or queries:
 GitHub:
 https://github.com/Khushi-yadav8757
 
-LinkedIn:[ *(Add your LinkedIn link here)*](https://www.linkedin.com/in/khushi-yadav8757/)
+LinkedIn:(https://www.linkedin.com/in/khushi-yadav8757/)
 
 ---
 
