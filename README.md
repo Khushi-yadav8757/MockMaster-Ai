@@ -4,7 +4,7 @@ MockMaster AI is an intelligent **AI-powered mock interview platform** designed 
 It helps students practice technical and HR interviews with real-time feedback, voice interaction, and performance tracking.
 
 🌐 **Live Demo:**
-https://mock-master-ai.vercel.app
+(https://mock-master-ai-pi.vercel.app/)
 
 ---
 
