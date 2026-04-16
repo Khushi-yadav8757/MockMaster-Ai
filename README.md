@@ -153,15 +153,6 @@ https://mock-master-ai.vercel.app
 
 ---
 
-# 👩‍💻 Author
-
-**Khushi Yadav**
-
-GitHub:
-https://github.com/Khushi-yadav8757
-
----
-
 # ⭐ Support
 
 If you like this project:
